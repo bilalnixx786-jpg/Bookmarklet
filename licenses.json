@@ -1,0 +1,14 @@
+{
+  "QX-BILAL-MASTER-001": {
+    "owner": "Bilal (Owner)",
+    "active": true,
+    "expires": null,
+    "note": "Owner - Lifetime access"
+  },
+  "QX-DEMO-001": {
+    "owner": "Demo User",
+    "active": true,
+    "expires": 1731000600000,
+    "note": "10 minutes demo"
+  }
+}
